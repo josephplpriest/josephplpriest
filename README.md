@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Priest.
 - 👀 I’m interested in story-telling with data: Data Science, Machine Learning and Data Analysis.
-- 🌱 I’m currently learning web scraping with python, data visualization with seaborn and matplotlib and text parsing with SciKitLearn.
+- 🌱 I’m currently learning web scraping with python, data visualization with seaborn and matplotlib and text-parsing with SciKitLearn.
 - 📫 You can reach me at josephplpriest@gmail.com
 
 <!---
