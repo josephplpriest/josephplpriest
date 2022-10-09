@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Priest.
-- 👀 I’m interested in story-telling with data: Data Science, Machine Learning and Data Analysis.
-- 🌱 I’m currently learning web scraping with python, data visualization with seaborn and matplotlib and text-parsing with SciKitLearn.
+- 👀 I’m interested in getting data to those who need it to make decisions: Data Engineering, Data Visualization and Data Modeling.
+- 🌱 I’m currently building ETL pipelines using AWS, working towards my next AWS certification in Data Analytics.
 - 📫 You can reach me at josephplpriest@gmail.com
 
 <!---
